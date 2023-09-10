@@ -164,6 +164,7 @@ services:
               count: 1 # number of GPUs
               capabilities: [gpu]
 ```
+_Note:docker-compose version 1.28 or greater required._
 
 ##### Docker Run CLI - Nvidia GPU
 
